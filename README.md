@@ -4,7 +4,6 @@ Welcome to **Simply Chocolate**, a modern and visually stunning website showcasi
 
 ## 🌟 Features
 
-- **Elegant Design**: A clean, minimalist interface with a focus on aesthetics.
 - **Responsive Layout**: Fully functional across devices — desktop, tablet, and mobile.
 - **Interactive Elements**: Smooth scrolling, hover effects, and animations.
 - **Swiper.js Integration**: Seamless sliders for showcasing products or testimonials.
@@ -29,7 +28,7 @@ View the live site here: [Simply Chocolate](https://ydiedienov.github.io/SIMPLY-
 - To integrate Swiper.js for smooth and responsive sliders.
 - To implement popup modal windows for better user engagement.
 
-## 🖼️ Responsive Design
+## 🖼️ Responsive Layout
 
 The website is designed to look great on all devices:
 - Desktop: Large, high-quality images and organized sections for easy navigation.
