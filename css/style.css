@@ -1181,7 +1181,7 @@ a {
 /* Subscribe section */
 .subscribe__container {
     max-width: 1200px;
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('img/subscribe__container--bg.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../img/subscribe__container--bg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
